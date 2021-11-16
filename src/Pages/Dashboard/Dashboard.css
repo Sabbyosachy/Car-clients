@@ -1,0 +1,32 @@
+.navsdash{
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+    line-height: 45px;
+    
+}
+.mrg{
+    margin-left: 70px;
+}
+.mrg1{
+    margin-left: 70px;
+    width: 50%;
+    background-color: rgb(216, 216, 216);
+    padding: 6px 15px;
+}
+.navsdash:hover{
+    color:black;
+}
+.dash{
+    background-color: rgb(238, 238, 238);
+    padding: 25px;
+}
+.backbg{
+    background-color: rgb(238, 238, 238);
+    padding-top: 60px;
+    min-height:500px;
+    height: 100%;
+}
+.bord{
+    text-align: left;
+}

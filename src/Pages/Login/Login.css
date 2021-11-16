@@ -1,0 +1,19 @@
+
+  .login input {
+    padding: 7px;
+    margin: 10px 0;
+  
+  }
+  
+  /* button style */
+  .btn__login {
+    background-color: #02123a;
+    color: white;
+    font-weight: 500;
+    width: 200px;
+    height: 40px;
+    object-fit: contain;
+    transition: 0.5s;
+    margin: 7px 0;
+  }
+  
